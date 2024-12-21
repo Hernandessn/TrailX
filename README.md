@@ -2,6 +2,8 @@
 <img src="https://media.discordapp.net/attachments/1225612992201363552/1285042982424416286/trailx-2.PNG?ex=66e8d509&is=66e78389&hm=3a47aa3ffa404a15352474bf0ca081eaf4fecf79c61ba10da993c87b00e954bb&=&format=webp&quality=lossless&width=872&height=417" />
 
 
+link do site: https://trail-x.netlify.app/
+
 
 <h1 font-weight="900">🚀 Sobre o Projeto</h1>
 <br>

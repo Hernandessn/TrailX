@@ -1,8 +1,12 @@
-<img src="https://media.discordapp.net/attachments/1225612992201363552/1285042982038409459/trailx-1.PNG?ex=66e8d509&is=66e78389&hm=afa2e368408884b7cf489d450c0121e3164b47a0e09521f60e77108bc946b575&=&format=webp&quality=lossless&width=889&height=417"/>
-<img src="https://media.discordapp.net/attachments/1225612992201363552/1285042982424416286/trailx-2.PNG?ex=66e8d509&is=66e78389&hm=3a47aa3ffa404a15352474bf0ca081eaf4fecf79c61ba10da993c87b00e954bb&=&format=webp&quality=lossless&width=872&height=417" />
+# Screenshot 
+
+<img src="https://github.com/Hernandessn/TrailX/blob/main/img/screenshot/screenshot-1.png?raw=true"/>
+<img src="https://github.com/Hernandessn/TrailX/blob/main/img/screenshot/screenshot-2.png?raw=true" />
 
 
-link do site: https://trail-x.netlify.app/
+# Link do site: 
+
+https://trail-x.netlify.app/
 
 
 <h1 font-weight="900">🚀 Sobre o Projeto</h1>
